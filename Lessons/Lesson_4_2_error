@@ -1,0 +1,26 @@
+
+============================= test session starts =============================
+platform win32 -- Python 3.6.1, pytest-3.2.1, py-1.4.34, pluggy-0.4.0
+rootdir: C:\Selenium_training\Lessons, inifile:
+Lesson4_2.py:None (Lesson4_2.py)
+C:\Users\WoPc\Selenium\lib\site-packages\_pytest\python.py:395: in _importtestmodule
+    mod = self.fspath.pyimport(ensuresyspath=importmode)
+C:\Users\WoPc\Selenium\lib\site-packages\py\_path\local.py:662: in pyimport
+    __import__(modname)
+E     File "C:\Selenium_training\Lessons\Lesson4_2.py", line 13
+E       return len(driver.find_elements(*args)) = 1
+E                                               ^
+E   SyntaxError: invalid syntax
+collected 0 items / 1 errors
+=================================== ERRORS ====================================
+________________________ ERROR collecting Lesson4_2.py ________________________
+C:\Users\WoPc\Selenium\lib\site-packages\_pytest\python.py:395: in _importtestmodule
+    mod = self.fspath.pyimport(ensuresyspath=importmode)
+C:\Users\WoPc\Selenium\lib\site-packages\py\_path\local.py:662: in pyimport
+    __import__(modname)
+E     File "C:\Selenium_training\Lessons\Lesson4_2.py", line 13
+E       return len(driver.find_elements(*args)) = 1
+E                                               ^
+E   SyntaxError: invalid syntax
+!!!!!!!!!!!!!!!!!!! Interrupted: 1 errors during collection !!!!!!!!!!!!!!!!!!!
+=========================== 1 error in 0.22 seconds ===========================
