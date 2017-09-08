@@ -1,14 +1,11 @@
 import pytest
 from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.common.by import By
 
 @pytest.fixture
 def driver(request):
     wd = webdriver.Chrome()
     request.addfinalizer(wd.quit)
     return wd
-
 
 def test(driver):
     driver.implicitly_wait(5)

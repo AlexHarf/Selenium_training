@@ -11,5 +11,4 @@ def test(driver):
     driver.get("http://localhost/litecart/")
     ducks = driver.find_elements_by_class_name("product")
     for i in range (len(ducks)):
-        print(ducks)
         assert len(ducks[i].find_elements_by_class_name("sticker")) == 1
