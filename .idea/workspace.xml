@@ -17,10 +17,10 @@
     <SUITE FILE_PATH="coverage/Selenium_training$Lesson_4.coverage" NAME="Lesson_4 Coverage Results" MODIFIED="1504713647593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
     <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_4_py.coverage" NAME="py.test in Lesson_4.py Coverage Results" MODIFIED="1504861624304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
     <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_1_py.coverage" NAME="py.test in Lesson_1.py Coverage Results" MODIFIED="1503239736902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_5_py.coverage" NAME="py.test in Lesson_5.py Coverage Results" MODIFIED="1504880688793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
-    <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_5_3_py.coverage" NAME="py.test in Lesson_5_3.py Coverage Results" MODIFIED="1504872355492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
+    <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_5_py.coverage" NAME="py.test in Lesson_5.py Coverage Results" MODIFIED="1504885458485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
+    <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_5_3_py.coverage" NAME="py.test in Lesson_5_3.py Coverage Results" MODIFIED="1504891698380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
     <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson4_2_py.coverage" NAME="py.test in Lesson4_2.py Coverage Results" MODIFIED="1504788285327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
-    <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_5_2_py.coverage" NAME="py.test in Lesson_5_2.py Coverage Results" MODIFIED="1504880736182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons/.cache" />
+    <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_5_2_py.coverage" NAME="py.test in Lesson_5_2.py Coverage Results" MODIFIED="1504881177363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons/.cache" />
     <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_2_py.coverage" NAME="py.test in Lesson_2.py Coverage Results" MODIFIED="1503260989667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
     <SUITE FILE_PATH="coverage/Selenium$py_test_in_Lesson_1_py.coverage" NAME="py.test in Lesson_1.py Coverage Results" MODIFIED="1503075190999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -63,8 +63,8 @@
       <file leaf-file-name="Lesson_5.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lessons/Lesson_5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="44" lean-forward="true" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
+            <state relative-caret-position="-17">
+              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="61" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -72,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lesson_5_2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Lesson_5_2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lessons/Lesson_5_2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="314">
-              <caret line="29" column="44" lean-forward="false" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="57" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -84,12 +84,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lesson_5_3.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Lesson_5_3.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lessons/Lesson_5_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="459">
+              <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,11 +120,11 @@
         <option value="$PROJECT_DIR$/Lessons/Lesson_4_2_error" />
         <option value="$PROJECT_DIR$/Lessons/Lesson_4.py" />
         <option value="$PROJECT_DIR$/Lessons/.cache/Lesson_5.py" />
-        <option value="$PROJECT_DIR$/Lessons/Lesson_5_3.py" />
         <option value="$PROJECT_DIR$/Lessons/Lesson_5.py" />
         <option value="$PROJECT_DIR$/Lessons/.cache/Lesson_5_2.py" />
         <option value="$PROJECT_DIR$/Lessons/Lesson4_2.py" />
         <option value="$PROJECT_DIR$/Lessons/Lesson_5_2.py" />
+        <option value="$PROJECT_DIR$/Lessons/Lesson_5_3.py" />
       </list>
     </option>
   </component>
@@ -132,7 +134,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="199" />
     <option name="y" value="15" />
     <option name="width" value="1400" />
@@ -204,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in Lesson_5_2.py">
+  <component name="RunManager" selected="Python tests.py.test in Lesson_5_3.py">
     <configuration name="py.test in Lesson4_2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,9 +296,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_5_2.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_5_3.py" />
         <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_5.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_5_3.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_5_2.py" />
         <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_4.py" />
         <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in Lesson4_2.py" />
       </list>
@@ -316,39 +318,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_Lesson_5_2_py - 2017.09.08 at 16h 51m 39s.xml">
-      <configuration name="py.test in Lesson_5_2.py" configurationId="tests" />
+    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 21m 33s.xml">
+      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_2_py - 2017.09.08 at 16h 54m 13s.xml">
-      <configuration name="py.test in Lesson_5_2.py" configurationId="tests" />
+    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 21m 46s.xml">
+      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_2_py - 2017.09.08 at 16h 56m 50s.xml">
-      <configuration name="py.test in Lesson_5_2.py" configurationId="tests" />
+    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 22m 11s.xml">
+      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_2_py - 2017.09.08 at 17h 06m 13s.xml">
-      <configuration name="py.test in Lesson_5_2.py" configurationId="tests" />
+    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 22m 31s.xml">
+      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_2_py - 2017.09.08 at 17h 09m 02s.xml">
-      <configuration name="py.test in Lesson_5_2.py" configurationId="tests" />
+    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 23m 35s.xml">
+      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_2_py - 2017.09.08 at 17h 09m 50s.xml">
-      <configuration name="py.test in Lesson_5_2.py" configurationId="tests" />
+    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 24m 29s.xml">
+      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_2_py - 2017.09.08 at 17h 22m 59s.xml">
-      <configuration name="py.test in Lesson_5_2.py" configurationId="tests" />
+    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 24m 45s.xml">
+      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_2_py - 2017.09.08 at 17h 23m 53s.xml">
-      <configuration name="py.test in Lesson_5_2.py" configurationId="tests" />
+    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 26m 56s.xml">
+      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_2_py - 2017.09.08 at 17h 24m 28s.xml">
-      <configuration name="py.test in Lesson_5_2.py" configurationId="tests" />
+    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 27m 57s.xml">
+      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_py - 2017.09.08 at 17h 25m 26s.xml">
-      <configuration name="py.test in Lesson_5.py" configurationId="tests" />
+    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 28m 29s.xml">
+      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -386,7 +388,7 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -520,14 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons/Lesson_5_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lessons/Lesson_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -538,8 +532,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lessons/Lesson_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="44" lean-forward="true" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
+        <state relative-caret-position="-17">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="61" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -549,7 +543,17 @@
     <entry file="file://$PROJECT_DIR$/Lessons/Lesson_5_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
-          <caret line="29" column="44" lean-forward="false" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/Lesson_5_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
