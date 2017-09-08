@@ -16,9 +16,10 @@
     <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_3_py.coverage" NAME="py.test in Lesson_3.py Coverage Results" MODIFIED="1503261103258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
     <SUITE FILE_PATH="coverage/Selenium_training$Lesson_4.coverage" NAME="Lesson_4 Coverage Results" MODIFIED="1504713647593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
     <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_4_py.coverage" NAME="py.test in Lesson_4.py Coverage Results" MODIFIED="1504861624304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
+    <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Temp_py.coverage" NAME="py.test in Temp.py Coverage Results" MODIFIED="1504898013526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
     <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_1_py.coverage" NAME="py.test in Lesson_1.py Coverage Results" MODIFIED="1503239736902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_5_py.coverage" NAME="py.test in Lesson_5.py Coverage Results" MODIFIED="1504885458485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
-    <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_5_3_py.coverage" NAME="py.test in Lesson_5_3.py Coverage Results" MODIFIED="1504891698380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
+    <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_5_3_py.coverage" NAME="py.test in Lesson_5_3.py Coverage Results" MODIFIED="1504898117066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
     <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson4_2_py.coverage" NAME="py.test in Lesson4_2.py Coverage Results" MODIFIED="1504788285327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
     <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_5_2_py.coverage" NAME="py.test in Lesson_5_2.py Coverage Results" MODIFIED="1504881177363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons/.cache" />
     <SUITE FILE_PATH="coverage/Selenium_training$py_test_in_Lesson_2_py.coverage" NAME="py.test in Lesson_2.py Coverage Results" MODIFIED="1503260989667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lessons" />
@@ -87,8 +88,20 @@
       <file leaf-file-name="Lesson_5_3.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lessons/Lesson_5_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+            <state relative-caret-position="85">
+              <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Temp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lessons/Temp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="77" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -124,6 +137,7 @@
         <option value="$PROJECT_DIR$/Lessons/.cache/Lesson_5_2.py" />
         <option value="$PROJECT_DIR$/Lessons/Lesson4_2.py" />
         <option value="$PROJECT_DIR$/Lessons/Lesson_5_2.py" />
+        <option value="$PROJECT_DIR$/Lessons/Temp.py" />
         <option value="$PROJECT_DIR$/Lessons/Lesson_5_3.py" />
       </list>
     </option>
@@ -207,22 +221,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python tests.py.test in Lesson_5_3.py">
-    <configuration name="py.test in Lesson4_2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lessons" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Selenium" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Lessons/Lesson4_2.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
     <configuration name="py.test in Lesson_4.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,20 +285,36 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/Lessons/Lesson_5.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <configuration name="py.test in Temp.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lessons" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Lessons/Temp.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_4.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in Lesson4_2.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_5.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_5_2.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_5_3.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_5.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_5_2.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_5_3.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in Temp.py" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_5_3.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_5.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_5_2.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_4.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in Lesson4_2.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in Temp.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_5.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_5_2.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in Lesson_4.py" />
       </list>
     </recent_temporary>
   </component>
@@ -318,35 +332,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 21m 33s.xml">
+    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 22h 14m 11s.xml">
       <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 21m 46s.xml">
+    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 22h 14m 50s.xml">
       <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 22m 11s.xml">
+    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 22h 15m 29s.xml">
       <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 22m 31s.xml">
-      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
+    <history-entry file="py_test_in_Temp_py - 2017.09.08 at 22h 04m 03s.xml">
+      <configuration name="py.test in Temp.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 23m 35s.xml">
-      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
+    <history-entry file="py_test_in_Temp_py - 2017.09.08 at 22h 04m 41s.xml">
+      <configuration name="py.test in Temp.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 24m 29s.xml">
-      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
+    <history-entry file="py_test_in_Temp_py - 2017.09.08 at 22h 07m 44s.xml">
+      <configuration name="py.test in Temp.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 24m 45s.xml">
-      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
+    <history-entry file="py_test_in_Temp_py - 2017.09.08 at 22h 08m 05s.xml">
+      <configuration name="py.test in Temp.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 26m 56s.xml">
-      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
+    <history-entry file="py_test_in_Temp_py - 2017.09.08 at 22h 10m 22s.xml">
+      <configuration name="py.test in Temp.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 27m 57s.xml">
-      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
+    <history-entry file="py_test_in_Temp_py - 2017.09.08 at 22h 13m 11s.xml">
+      <configuration name="py.test in Temp.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_Lesson_5_3_py - 2017.09.08 at 20h 28m 29s.xml">
-      <configuration name="py.test in Lesson_5_3.py" configurationId="tests" />
+    <history-entry file="py_test_in_Temp_py - 2017.09.08 at 22h 13m 44s.xml">
+      <configuration name="py.test in Temp.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -363,7 +377,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978212" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39874083" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -550,10 +564,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/Temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lessons/Lesson_5_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        <state relative-caret-position="85">
+          <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>

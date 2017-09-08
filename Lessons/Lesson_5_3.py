@@ -27,7 +27,7 @@ def test(driver):
     priceSaleType = l.find_element_by_css_selector(".campaign-price").value_of_css_property("font-weight")
     assert priceSaleType == 'bold'
 
-    driver.get("http://localhost/litecart/en/rubber-ducks-c-1/subcategory-c-2/yellow-duck-p-1")
+    driver.find_element_by_xpath("//div[@id='box-campaigns']//li[1]").click()
 
     secName = driver.find_element_by_css_selector("h1.title").get_attribute("textContent")
     secPriceReg = driver.find_element_by_css_selector(".regular-price").get_attribute("textContent")
@@ -47,8 +47,6 @@ def test(driver):
     assert name == secName
     assert priceReg == secPriceReg
     assert priceSale == secPriceSale
-
-    # driver.find_element_by_css_selector("[id=box-campaigns], [class=link]").click()
 
     #print(secName)
     #print(secPriceReg)
