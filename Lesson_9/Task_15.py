@@ -10,4 +10,4 @@ def driver(request):
 def test(driver):
     driver.implicitly_wait(5)
     driver.get("http://software-testing.ru/")
-    driver.find_element_by_id("pause")
+    driver.find_elemens_by_id("pause")
