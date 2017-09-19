@@ -38,6 +38,3 @@ def test(driver):
 
 
 
-
-
-    #driver.find_element_by_name("date_valid_to").send_keys("11112020")
